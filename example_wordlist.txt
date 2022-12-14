@@ -1,0 +1,9 @@
+root
+admin
+backup
+www-data
+mysql
+ftp
+proftpd
+_apt
+john
